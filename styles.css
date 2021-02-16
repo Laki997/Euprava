@@ -1,0 +1,136 @@
+/* input[type="text"],
+[type="email"] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+  vertical-align: middle;
+} */
+
+/* .wrapper {
+  height: 25px;
+  width: 500px;
+} */
+
+h1 {
+  font-size: 150%;
+  font-family: sans-serif;
+  margin-bottom: 50px;
+  text-align: center;
+  border: outset;
+  margin-left: 298px;
+  margin-right: 428px;
+  color: rgb(255, 196, 0);
+  background-color: white;
+}
+h2 {
+  color: blue;
+  background-color: white;
+}
+
+body {
+  background-color: #80ced6;
+}
+
+label {
+  float: left;
+  width: 7%;
+  color: #00203fff;
+  font-weight: bold;
+}
+.myinput {
+  box-sizing: border-box;
+  display: block;
+  width: 70%;
+  height: 50%;
+  border: yellow;
+  border-style: double;
+  border-radius: 5px;
+}
+
+.mybutton {
+  background-color: #82b74b;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 15px 2px;
+  cursor: pointer;
+}
+
+form {
+  margin-top: 20px;
+  margin-left: 20%;
+  margin-right: 200px;
+}
+input[type="radio"] {
+  display: inline-block;
+  width: 150px;
+  margin: auto;
+  justify-content: center;
+}
+
+.login {
+  box-sizing: border-box;
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+
+.form-login {
+  margin-top: 50px;
+}
+
+.myinput-login {
+  box-sizing: border-box;
+  display: block;
+  width: 70%;
+  height: 50%;
+  margin-left: 165px;
+}
+
+.input-login {
+  width: 50%;
+  height: 30px;
+  margin-left: 28px;
+}
+.input-login-email {
+  width: 50%;
+  height: 30px;
+  margin-left: 50px;
+}
+
+.login-button {
+  background-color: #82b74b;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 15px 2px;
+  cursor: pointer;
+  margin-left: 165px;
+  margin-top: 30px;
+}
+
+.home {
+  text-align: center;
+  color: rgb(255, 196, 0);
+  border: outset;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+h4 {
+  display: inline-block;
+}
+h3 {
+  border: outset;
+  color: white;
+  margin-left: 365px;
+  margin-right: 365px;
+  text-align: center;
+  font-weight: bold;
+  background-color: rgb(255, 196, 0);
+}
